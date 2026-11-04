@@ -1,9 +1,19 @@
 <p align="center"><img src="docs/cover.jpg" alt="土耳其十二位 · THE TWELVE MERCHANTS" width="100%"></p>
 
-# 土耳其十二位 · THE TWELVE MERCHANTS
+<h1 align="center">土耳其十二位 · THE TWELVE MERCHANTS</h1>
 
-**▶ [点这里直接玩](https://guo12240131.github.io/shierwei-game/)** —— 不用下载、不用注册，打开就是游戏。
-手机上打开后可以「添加到主屏幕」，之后全屏、断网也能玩。
+<p align="center">
+  <a href="https://github.com/Guo12240131/shierwei-game/stargazers"><img src="https://img.shields.io/github/stars/Guo12240131/shierwei-game?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/Guo12240131/shierwei-game/releases"><img src="https://img.shields.io/github/v/release/Guo12240131/shierwei-game?style=flat-square&color=a6321f" alt="release"></a>
+  <img src="https://img.shields.io/badge/size-2.8%20MB-lightgrey?style=flat-square" alt="2.8 MB">
+  <img src="https://img.shields.io/badge/offline-100%25-5d6b4f?style=flat-square" alt="offline">
+  <img src="https://img.shields.io/badge/AI-generated-blueviolet?style=flat-square" alt="AI generated">
+</p>
+
+<p align="center"><b>▶ <a href="https://guo12240131.github.io/shierwei-game/">点这里直接玩</a></b>　不用下载、不用注册，打开就是游戏。<br>
+手机上打开后可以「添加到主屏幕」，之后全屏、断网也能玩。</p>
+
+<p align="center"><sub>国内线路更稳一点：<a href="https://turkey-twelve.app.workbuddy.host/?sharecode=TL6KX32B27">同一个游戏的另一条线</a></sub></p>
 
 > 第一次打开要下载约 3 MB（单文件游戏，模型、贴图、48 段音效全部内嵌在 html 里）。
 > 国内网络可能要等一会儿，**之后再打开是秒开**（Service Worker 已经把它存进本地）。
@@ -115,7 +125,19 @@
 
 ## 许可
 
-个人作品，保留所有权利。**看、玩、学习都可以；商用和二次分发请先联系。**
+个人作品，保留所有权利。**看、玩、学习都可以；商用和二次分发请先联系。** 详见 [LICENSE](LICENSE)。
+
+<br>
+
+<p align="center">
+  如果这个游戏让你在某个地方停了一下 ——<br>
+  <b>右上角那颗 ⭐ 就是最好的回礼。</b><br>
+  <sub>它也让更多人看到这个题目，而不是又滑过去一个"羊"的梗。</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Guo12240131/shierwei-game/stargazers"><img src="https://img.shields.io/github/stars/Guo12240131/shierwei-game?style=social" alt="GitHub stars"></a>
+</p>
 
 <br>
 
