@@ -9,6 +9,22 @@
 > 国内网络可能要等一会儿，**之后再打开是秒开**（Service Worker 已经把它存进本地）。
 > 海外访问很快——慢只慢在这条线路上，不是页面本身重。
 
+## 装到桌面（下载安装包）
+
+不想每次开网址、想要一个桌面图标的话，三个包在这里（[Release 页面](../../releases/tag/v1.0)）：
+
+| 机器 | 下载 | 装完是什么样 |
+|---|---|---|
+| **Windows 10 / 11** | [`shierwei-1-windows.zip`](https://github.com/Guo12240131/shierwei-game/releases/download/v1.0/shierwei-1-windows.zip) · 1.7 MB | 解压 → 双击 `安装并启动.bat` → 桌面多一个带图标的「土耳其十二位」，点开是无地址栏的独立窗口 |
+| **Android 7+** | [`shierwei-2-android.zip`](https://github.com/Guo12240131/shierwei-game/releases/download/v1.0/shierwei-2-android.zip) · 4.6 MB | 解压 → 把 `土耳其十二位.apk` 拷到手机 → 点一下装，桌面出图标 |
+| **iPhone / iPad** | [`shierwei-3-ios.zip`](https://github.com/Guo12240131/shierwei-game/releases/download/v1.0/shierwei-3-ios.zip) · 3.0 MB | Safari 打开本页 → 分享 →「添加到主屏幕」；包里另附说明和一份可安装的描述文件 |
+
+三份都**离线**：three.js、封面、45 段音效全部打包在文件里，装完断网照玩。
+安卓的 apk 一条权限都没有——连联网权限都没申请。
+
+> 附件名是 ASCII 的，因为 GitHub 会把中文附件名过滤成 `-1-.Windows.zip`；解压出来的文件夹名仍是中文。
+> 国内下不动的话，同一个包也在[下载页](https://turkey-twelve.app.workbuddy.host/download.html)上（实测 4.8 MB 约 2 秒）。
+
 ![游戏实机](docs/demo.gif)
 
 ---
