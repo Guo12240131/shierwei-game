@@ -23,7 +23,7 @@
 安卓的 apk 一条权限都没有——连联网权限都没申请。
 
 > 附件名是 ASCII 的，因为 GitHub 会把中文附件名过滤成 `-1-.Windows.zip`；解压出来的文件夹名仍是中文。
-> 国内下不动的话，同一个包也在[下载页](https://turkey-twelve.app.workbuddy.host/download.html)上（实测 4.8 MB 约 2 秒）。
+> 国内下不动的话，同一个包也在[下载页](https://turkey-twelve.app.workbuddy.host/download.html?sharecode=TL6KX32B27)上（实测 4.8 MB 约 2 秒）。链接末尾那串 `sharecode` 不能删——这个域名靠它第一次放行。
 
 ![游戏实机](docs/demo.gif)
 
